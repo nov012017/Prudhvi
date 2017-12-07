@@ -9,6 +9,7 @@ public class NewTestGitClass
 		System.out.println("First Fetch");
 		System.out.println("Third Commit");
 		System.out.println("Second Fetch");
+		System.out.println("Third Fetch");
 	}
 
 }
